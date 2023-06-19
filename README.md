@@ -1,6 +1,6 @@
-# app1
+# buy.bike.now
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
